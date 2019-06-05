@@ -1,0 +1,6 @@
+framework module Pods_ParkingSpotFinderTests {
+  umbrella header "Pods-ParkingSpotFinderTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
